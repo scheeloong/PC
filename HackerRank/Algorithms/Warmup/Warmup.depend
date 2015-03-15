@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1425463780 source:c:\users\soon chee loong\documents\github\practice\randomdecision\hackerrank\algorithms\warmup\main.cpp
+	<stdio.h>
+	<stdio.h>
+	<stdio.h>
+	<iostream>
+	<stdio.h>
+	<iostream>
+	<string.h>
+	<cstdio>
+	<iostream>
+	<stdlib.h>
+	<cstdlib>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<iostream>
+	<iostream>
+	<cmath>
+	<cstdio>
+	<iostream>
+	<iostream>
+	<iostream>
+	<stdio.h>
+	<iostream>
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<iostream>
+	<string>
+	<iostream>
+	<iostream>
+	<cmath>
+	<iostream>
+	<iostream>
+	<iostream>
+	<iostream>
+	<string>
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<stdlib.h>
+	<stdio.h>
+	<iostream>
+	<string>
+

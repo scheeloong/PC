@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1425469320 source:c:\users\soon chee loong\documents\github\practice\randomdecision\hackerrank\algorithms\arraysandsorting\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<iostream>
+	<cmath>
+	<cstring>
+	<string>
+	<iostream>
+	<iostream>
+	<iostream>
+	<algorithm>
+	<iostream>
+	<cmath>
+	<iostream>
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+	<assert.h>
+	<queue>
+	<iostream>
+	<queue>
+	<vector>
+	<algorithm>
+	<iostream>
+	<iostream>
+	<iostream>
+	<cstring>
+	<iostream>
+	<cstring>
+	<iostream>
+	<cstring>
+	<string>
+	<iostream>
+
