@@ -1,2 +1,5 @@
-# ProgrammingChallenges
-My code solution for programming challenges from HackerRank, SPOJ, TopCoder, CodeChef and other challenges 
+# Algorithms
+My interview notes using my main 3 programming language:
+.cpp 
+.java 
+.py 
